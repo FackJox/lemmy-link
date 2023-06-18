@@ -15,7 +15,7 @@ This extension is forked from https://github.com/driccio98/kbin-link which is fo
 ## Installation
 
 ### Chrome
-- Pending
+https://chrome.google.com/webstore/detail/lemmy-link/glhbnnmcnindhfaebnckcfdblggpjlog
 
 ### Firefox
 https://addons.mozilla.org/en-GB/firefox/addon/lemmy-link/
